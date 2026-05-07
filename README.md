@@ -1,7 +1,6 @@
-# 📘 Dianalabs Guía de Usuario: 
-[![DianaLabs](https://img.shields.io/badge/-DianaLabs-8A2BE2?style=flat&logo=github)](https://github.com/tuusuario)
+[![DianaLabs](https://img.shields.io/badge/-DianaLabs-8A2BE2?style=flat&logo=github)](https://github.com/dianahuarazvargas-bit/dianalabs)
 
-# Conversión de Google Sheets a MARC21 para Koha
+# 📘 Guía de Usuario: Conversión de Google Sheets a MARC21 para Koha
 
 ## Conversión de Google Sheets → MARC21 para Koha
 
